@@ -118,7 +118,7 @@ It integrates a **Web-to-Lead form**, intelligent **email alerts**, and **visual
 ---
 
 ## 🌐 Live Demo
-🔗 [Click here to open the live Smart Lead Form](https://vinaysingu88.github.io/smart-lead-management-system/)
+🔗 [Click here to open the live Smart Lead Form](https://vinaysingu88.github.io/Smart-Lead-Management-System-using-Salesforce/)
 
 ---
 
